@@ -24,4 +24,4 @@ I have analyzed all features vs price.
 
 Here you have my tableau to get the best diamond ever!
 
-https://public.tableau.com/profile/pablo4606#!/vizhome/Project_module_2_16140250898810/Dashboard1
+https://public.tableau.com/views/Project_module_2_16140250898810/getthebestdiamondever?:language=es&:display_count=y&publish=yes&:origin=viz_share_link
